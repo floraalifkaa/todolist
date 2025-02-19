@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f2f2f2;
+            background-color:rgb(248, 248, 248);
             display: flex;
             justify-content: center;
             align-items: center;
@@ -17,7 +17,7 @@
         .container {
             width: 350px; /* sedikit lebih lebar */
             padding: 20px;
-            background-color: white;
+            background-color: blue;
             border-radius: 8px; /* border radius lebih besar */
             box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
         }
@@ -45,7 +45,7 @@
             border: 1px solid #ccc;
             border-radius: 3px;
             box-sizing: border-box;
-            background-color: #f8f8f8; /* warna input lebih terang */
+            background-color:rgba(250, 250, 250, 0.99); /* warna input lebih terang */
             padding-left: 40px; /* memberikan ruang untuk ikon */
             position: relative; /* untuk memposisikan ikon */
         }
@@ -61,7 +61,7 @@
         button {
             width: 100%;
             padding: 10px;
-            background-color: #007bff; /* warna biru */
+            background-color:rgb(0, 123, 255); /* warna biru */
             color: white;
             border: none;
             border-radius: 3px;
